@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3324629,
+	"CompatibleChangelist" : 3313651,
+	"BuildId" : "bedd6bea-a543-42b4-80e7-df24f155b650",
+	"Modules" : 
+	{
+		"Rudder" : "UE4Editor-Rudder.dll"
+	}
+}

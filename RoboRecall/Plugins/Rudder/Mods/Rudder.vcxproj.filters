@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\Rudder.uplugin" />
+    <Filter Include="Resources">
+      <UniqueIdentifier>{224444DC-A27E-4A1C-9BFD-D963449ECF50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\Resources\Icon128.png">
+      <Filter>Resources</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F6DA509E-547B-4831-9890-34B8730421CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Rudder">
+      <UniqueIdentifier>{E18D112A-42D7-4C27-B10B-D0297047FD8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\Source\Rudder\Rudder.Build.cs">
+      <Filter>Source\Rudder</Filter>
+    </None>
+    <Filter Include="Source\Rudder\Private">
+      <UniqueIdentifier>{ED9ADA39-DF9C-4E4C-92C0-A64832C8FEB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Rudder\Public">
+      <UniqueIdentifier>{EC864EB7-0B08-4038-89FB-DC74B7E3BA87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Source\Rudder\Private\3DRudderDevice.cpp">
+      <Filter>Source\Rudder\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Rudder\Private\3DRudderPlugin.cpp">
+      <Filter>Source\Rudder\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Source\Rudder\Private\3DRudderDevice.h">
+      <Filter>Source\Rudder\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Rudder\Private\3DRudderPlugin.h">
+      <Filter>Source\Rudder\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Rudder\Private\3DRudderPrivatePCH.h">
+      <Filter>Source\Rudder\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\Rudder\Public\I3DRudderPlugin.h">
+      <Filter>Source\Rudder\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

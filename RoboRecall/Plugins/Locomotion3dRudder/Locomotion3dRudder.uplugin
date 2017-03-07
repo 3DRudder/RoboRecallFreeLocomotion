@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Locomotion3dRudder",
+	"Description": "3dRudder",
+	"Category": "Other",
+	"CreatedBy": "3dRudder",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsMod": true,
+	"Installed": false
+}

@@ -1,0 +1,22 @@
+# File
+*.db
+*.suo
+
+# Unreal Engine
+Engine/
+FeaturePacks/
+Build
+Intermediate
+
+# Robo Recall
+RoboRecall/Binaries/
+RoboRecall/Config/
+RoboRecall/Content/
+RoboRecall/Debug/
+RoboRecall/Releases/
+RoboRecall/Saved/
+RoboRecall/Source/
+
+# Other Plugins
+RoboRecall/Plugins/FortniteWeapons/
+RoboRecall/Plugins/OdinEditor/
