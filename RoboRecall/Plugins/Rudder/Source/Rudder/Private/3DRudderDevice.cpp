@@ -82,7 +82,7 @@ void F3DRudderDevice::Tick(float DeltaTime)
 void F3DRudderDevice::SendControllerEvents() 
 {
 	ns3dRudder::CSdk* pSdk = ns3dRudder::GetSDK();
-	ns3dRudder::ModeAxis mode = ns3dRudder::ModeAxis::ValueWithCurve;
+	ns3dRudder::ModeAxis mode = ns3dRudder::ModeAxis::ValueWithCurveNonSymmetricalPitch;
 	ns3dRudder::CurveArray *curves = new ns3dRudder::CurveArray;
 	for (unsigned int i = 0;i < _3DRUDDER_SDK_MAX_DEVICE;i++)
 	{
