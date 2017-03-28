@@ -4,7 +4,7 @@
 
 ## Play Only
 
-1. On your Pc, go to the folder`RoboRecall\Binaries\Win64` and drag the 2 files [Rudder.robo and Locomotion3dRudder.robo](https://github.com/3DRudder/RoboReCallFreeLocomotion/releases/latest) one after the other onto the `RoboRecallModInstaller.exe` (or just double-click Locomotion3dRudder.robo and Rudder.robo if it's already associated).
+1. On your Pc, go to the folder`Oculus Folder\Software\epic-games-odin\RoboRecall\Binaries\Win64` and drag the 2 files [Rudder.robo and Locomotion3dRudder.robo](https://github.com/3DRudder/RoboReCallFreeLocomotion/releases/latest) one after the other onto the `RoboRecallModInstaller.exe` (or just double-click Locomotion3dRudder.robo and Rudder.robo if it's already associated).
 2. Press 'Yes' when prompted to install each 2 mod.
 3. Click 'Play Now' after having installed the 2 mods or just run `RoboRecall-Win64-Shipping.exe` directly.
 4. Select only the "Locomotion3dRudder" mod and Enjoy!
