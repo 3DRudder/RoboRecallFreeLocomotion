@@ -4,6 +4,7 @@
 
 * create new branch: "gh-pages"
 * add remote "pages" : ```git remote add pages git@github.com:3DRudder/3dRudder.github.io.git```
+* git fetch pages
 * pull/merge "pages" into branch "gh-pages" : ```git pull -Xours pages master --allow-unrelated-histories```
 * copy/past the content of master "ReadMe.md" into the "index.md"
 * Add in _config.yml 
