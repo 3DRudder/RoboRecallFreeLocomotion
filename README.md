@@ -39,3 +39,7 @@
 
 # Tools
 * https://help.github.com/articles/repository-metadata-on-github-pages/
+
+# Update Main List
+
+* Modify and commit thids file (ReadMe)
