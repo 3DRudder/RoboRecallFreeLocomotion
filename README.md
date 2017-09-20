@@ -24,7 +24,7 @@
 # Test in local
 
 * Open cmd or bash on root of project
-* Check ruby is installed : ```ruby --version```
+* Check ruby is installed : ```ruby --version``` [ruby installer](https://rubyinstaller.org/downloads/)
 * Install bundle : ```bundle install```
 * Install jekyll : ```gem install jekyll bundler```
 * Add in .gitignore 
