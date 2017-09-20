@@ -3,8 +3,8 @@
 # Get theme in other repo
 
 * Create new branch: "gh-pages",
-* add remote "pages" : ```git remote add pages git@github.com:3DRudder/3dRudder.github.io.git```
-* git fetch pages
+* add remote "pages" : ```git remote add pages git@github.com:3DRudder/3dRudder.github.io.git```,
+* git fetch pages,
 * pull/merge "pages" into branch "gh-pages" : ```git pull -Xours pages master --allow-unrelated-histories```
 * copy/past the content of master "ReadMe.md" into the "index.md"
 * Add in _config.yml 
@@ -41,5 +41,4 @@
 * https://help.github.com/articles/repository-metadata-on-github-pages/
 
 # Update Main List
-
 * Modify and commit thids file (ReadMe)
