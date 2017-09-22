@@ -26,6 +26,7 @@
 * Open cmd or bash on root of project
 * Check ruby is installed : ```ruby --version``` ([ruby installer](https://rubyinstaller.org/downloads/))
 * Install bundle : ```bundle install```
+-> si ne fonctionne pas, lancer ```gem install bundler```
 * Install jekyll : ```gem install jekyll bundler```
 * Add in .gitignore 
   * ```_site/```
