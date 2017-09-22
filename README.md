@@ -35,6 +35,8 @@
 * Launch server : ```bundle exec jekyll serve```
 * Test : http://127.0.0.1:4000/
 
+ref. https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
 # Soon
 * launch .bat or .cmd to update automaticaly
 
