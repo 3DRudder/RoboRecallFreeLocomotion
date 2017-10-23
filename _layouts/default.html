@@ -17,10 +17,13 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">         
-           <a id="forkme_banner" class="background_color_3dRudder" href="{{ site.github.repository_url }}">View on GitHub</a>            
+          <a id="forkme_banner" class="background_color_3dRudder" href="{{ site.github.repository_url }}">View on GitHub</a>            
+          <div class="logo"></div>
           <h1 id="project_title" class="color_3dRudder">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <div class="logo"></div>
+          {% if site.video_id %}
+            {% include youtubePlayer.html width=560 height=315 id=site.video_id autoplay=1 %}
+          {% endif %}
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.latest_release.zipball_url }}">Download this project as a .zip file</a>

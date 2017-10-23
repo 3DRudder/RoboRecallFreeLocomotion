@@ -11,6 +11,7 @@
   * ```repository: 3dRudder/name_of_repo```
   * ```show_downloads: "true"```
   * comment ```#title: [3dRudder Repositories]``` or modify ```title: [3dRudder the_project_name]```
+  * if you want to add youtube video ```video_id: 'id_of_video_embed'```
 * push (maybe force push if fail)
 * look the result on browser ```3dRudder.github.io/name_of_repo```
 
