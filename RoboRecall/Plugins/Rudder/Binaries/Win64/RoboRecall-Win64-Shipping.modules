@@ -1,9 +1,0 @@
-{
-	"Changelist" : 3339454,
-	"CompatibleChangelist" : 3313651,
-	"BuildId" : "",
-	"Modules" : 
-	{
-		"Rudder" : "RoboRecall-Rudder-Win64-Shipping.dll"
-	}
-}
