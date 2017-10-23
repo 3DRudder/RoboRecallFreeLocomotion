@@ -1,5 +1,5 @@
-title: [3dRudder Repositories]
-#show_downloads: "false"
+#title: [3dRudder Repositories]
+show_downloads: "true"
 theme: jekyll-theme-slate
-repository: 3dRudder/3dRudder.github.io
-#video_id: 'ktm5qnWx-rI'
+repository: 3dRudder/RoboRecallFreeLocomotion
+video_id: '89MreEzEq04'
